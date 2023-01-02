@@ -1,1 +1,17 @@
-
+<bug_report>
+  <id>1</id>
+  <title>Viewers Icon dosn't display live viewers in the live strim  when clicked</title>
+  <severity>Critical</severity>
+  <priority>Hight</priority>
+  <steps>
+    <s_1>Click the Video Icon</s_1>
+    <s_2>Click Start Live Streaming Button</s_2>
+    <s_3>Connect 3 viewers</s_3>
+    <s_4>Click on the Viewers Icon</s_4>
+  </steps>
+  <actual_result>Viewers aren't displayed in the list</actual_result>
+  <expected_result>The list shows 3 viewers</expected_result>
+  <environment>Windows 10 Pro v:21H2 Google Chrome v:10.0.5112.841</environment>
+  <attachment> </attachment>
+  <asigned_to>Kozlov V.</asigned_to>
+</bug_report>
